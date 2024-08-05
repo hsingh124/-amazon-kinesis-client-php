@@ -1,0 +1,10 @@
+{
+    "name": "hsingh124/amazon-kinesis-client-php",
+    "description": "Kinesis Client Libray (KCL) in PHP.",
+    "autoload": {
+        "psr-4": {
+            "Hsingh124\\AmazonKinesisClientPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
